@@ -1,0 +1,29 @@
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.Form1.resources
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\SteamCDKeyExtractor.Properties.Resources.resources
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.csproj.GenerateResource.Cache
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.TrustInfo.xml
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.exe.manifest
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.application
+C:\Users\wbx\Desktop\Steam 激活码提取工具.exe.manifest
+C:\Users\wbx\Desktop\Steam 激活码提取工具.application
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.exe
+C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.pdb
+C:\Users\wbx\Desktop\Steam 激活码提取工具.exe
+C:\Users\wbx\Desktop\Steam 激活码提取工具.pdb
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.exe
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.pdb
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.csprojResolveAssemblyReference.cache
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.Form1.resources
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\SteamCDKeyExtractor.Properties.Resources.resources
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.csproj.GenerateResource.Cache
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.TrustInfo.xml
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.exe.manifest
+D:\Project\App\PC\KeyExtractor-master\KeyExtractor\obj\Debug\Steam 激活码提取工具.application
+D:\Project\App\PC\Steam 激活码提取工具.exe.manifest
+D:\Project\App\PC\Steam 激活码提取工具.application
+D:\Project\App\PC\Steam 激活码提取工具.exe
+D:\Project\App\PC\Steam 激活码提取工具.pdb
+D:\Project\App\PC\KeyExtractor-master\steamcdkey\obj\Debug\Steam 激活码提取工具.exe
+D:\Project\App\PC\KeyExtractor-master\steamcdkey\obj\Debug\Steam 激活码提取工具.pdb
+D:\Project\App\PC\Steam 激活码提取工具\steamcdkey\obj\Debug\Steam 激活码提取工具.exe
+D:\Project\App\PC\Steam 激活码提取工具\steamcdkey\obj\Debug\Steam 激活码提取工具.pdb
