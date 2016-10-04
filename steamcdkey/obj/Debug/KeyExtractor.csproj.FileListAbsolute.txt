@@ -1,8 +1,0 @@
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\bin\Debug\KeyExtractor.exe
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\bin\Debug\KeyExtractor.pdb
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.csprojResolveAssemblyReference.cache
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.Form1.resources
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.Properties.Resources.resources
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.csproj.GenerateResource.Cache
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.exe
-C:\Users\wbx\Desktop\KeyExtractor-master\KeyExtractor\obj\Debug\KeyExtractor.pdb

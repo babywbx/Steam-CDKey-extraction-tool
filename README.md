@@ -1,2 +1,2 @@
-# KeyExtractor
-Simple tool to extract cdkeys from clipboard
+# Steam-CDKey-extraction-tool
+Steam 激活码提取工具
